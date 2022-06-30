@@ -18,7 +18,7 @@ body {
     aspect-ratio: 1;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1000px) {
     body {
         padding: 30px;
     }
