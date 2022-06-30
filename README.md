@@ -1,0 +1,1 @@
+![alt text](https://github.com/ocheretenko/study_js_card_game/blob/master/readme/readme1.png?raw=true)
